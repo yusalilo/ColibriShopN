@@ -1,2 +1,0 @@
-# EjercicioSali
- ejemplo con natali
